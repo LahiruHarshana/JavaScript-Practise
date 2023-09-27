@@ -51,5 +51,5 @@ student+=1;  //augmented assignment operator
 let userName;
 
 document.getElementById("myButton").onclick = function (){
-    userName=document.getElementById("myText")
+    userName=document.getElementById("myText").value()
 }
