@@ -48,8 +48,8 @@ student+=1;  //augmented assignment operator
 
 // let username = window.prompt("What is Your name ?")
 
-let userName =
+let userName;
 
 document.getElementById("myButton").onclick = function (){
-
+    userName=document.getElementById("myText")
 }
