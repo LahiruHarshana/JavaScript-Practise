@@ -17,6 +17,5 @@ comment
 //var
 //const
 
-let age;
-age=21;
+let age =21;
 console.log(age);
