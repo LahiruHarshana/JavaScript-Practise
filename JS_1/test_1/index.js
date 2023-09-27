@@ -34,3 +34,5 @@ document.getElementById("p3").innerHTML = "Boolean answer is "+correct;
 
 
 let student =20;
+
+student = student+1;
