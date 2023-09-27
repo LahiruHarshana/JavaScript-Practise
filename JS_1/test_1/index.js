@@ -16,17 +16,17 @@ comment
 //let
 //var
 //const
-let name = "Lahiru";
-let age =21;
-let correct = true;
-
-console.log("I am age for",age);
-console.log("My Name is",name);
-console.log("Boolean answer is",correct);
-
-document.getElementById("p1").innerHTML = "I am age is "+age;
-document.getElementById("p2").innerHTML = "My name is "+name;
-document.getElementById("p3").innerHTML = "Boolean answer is "+correct;
+// let name = "Lahiru";
+// let age =21;
+// let correct = true;
+//
+// console.log("I am age for",age);
+// console.log("My Name is",name);
+// console.log("Boolean answer is",correct);
+//
+// document.getElementById("p1").innerHTML = "I am age is "+age;
+// document.getElementById("p2").innerHTML = "My name is "+name;
+// document.getElementById("p3").innerHTML = "Boolean answer is "+correct;
 
 
 
@@ -40,9 +40,10 @@ let student =20;
 student+=1;  //augmented assignment operator
 
 
-console.log(student);
+// console.log(student);
 
 
 
 ////////////////////////////////////////////////////////////
 
+let username = window.prompt("What is Your name ?")
