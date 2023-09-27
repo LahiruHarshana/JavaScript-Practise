@@ -25,4 +25,4 @@ console.log(name);
 console.log(correct);
 
 document.getElementById("p1").innerHTML = age;
-document.getElementById("p2").innerHTML
+document.getElementById("p2").innerHTML = name;
