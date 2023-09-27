@@ -16,3 +16,6 @@ comment
 //let
 //var
 //const
+
+let age;
+console.log(age);
