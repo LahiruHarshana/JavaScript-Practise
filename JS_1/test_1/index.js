@@ -37,6 +37,7 @@ let student =20;
 
 // student = student+1;
 // student = student-1;
+student+=1;  //augmented assignment operator
 
 
 console.log(student);
