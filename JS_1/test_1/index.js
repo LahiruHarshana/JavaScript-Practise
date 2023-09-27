@@ -22,7 +22,7 @@ let correct = true;
 
 console.log("I am age for",age);
 console.log("My Name is",name);
-console.log(correct);
+console.log("Boolean answer is",correct);
 
 document.getElementById("p1").innerHTML = age;
 document.getElementById("p2").innerHTML = name;
