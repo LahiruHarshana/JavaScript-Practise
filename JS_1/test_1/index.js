@@ -16,6 +16,7 @@ comment
 //let
 //var
 //const
-
+let name = "Lahiru";
 let age =21;
+
 console.log(age);
