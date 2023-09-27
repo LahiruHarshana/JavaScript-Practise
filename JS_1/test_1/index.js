@@ -25,5 +25,5 @@ console.log("My Name is",name);
 console.log("Boolean answer is",correct);
 
 document.getElementById("p1").innerHTML = "I am age is "+age;
-document.getElementById("p2").innerHTML = name;
+document.getElementById("p2").innerHTML = "My name is"+name;
 document.getElementById("p3").innerHTML = correct;
