@@ -21,7 +21,7 @@ let age =21;
 let correct = true;
 
 console.log("I am age for",age);
-console.log("My "name);
+console.log("My Name is",name);
 console.log(correct);
 
 document.getElementById("p1").innerHTML = age;
