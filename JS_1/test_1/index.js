@@ -31,3 +31,6 @@ document.getElementById("p3").innerHTML = "Boolean answer is "+correct;
 
 
 //arithmetic expression
+
+
+let student =20;
