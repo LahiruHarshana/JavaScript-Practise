@@ -18,6 +18,8 @@ comment
 //const
 let name = "Lahiru";
 let age =21;
+let correct = true;
 
 console.log(age);
 console.log(name);
+console.log(correct);
