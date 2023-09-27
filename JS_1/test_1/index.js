@@ -10,3 +10,9 @@ is
 a multiline
 comment
  */
+
+//variables
+
+//let
+//var
+//const
