@@ -23,3 +23,5 @@ let correct = true;
 console.log(age);
 console.log(name);
 console.log(correct);
+
+document.getElementById("p1").innerHTML = age;
