@@ -26,3 +26,4 @@ console.log(correct);
 
 document.getElementById("p1").innerHTML = age;
 document.getElementById("p2").innerHTML = name;
+document.getElementById("p3").innerHTML = correct;
