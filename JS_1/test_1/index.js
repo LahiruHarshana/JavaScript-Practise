@@ -20,8 +20,8 @@ let name = "Lahiru";
 let age =21;
 let correct = true;
 
-console.log(age);
-console.log(name);
+console.log("I am age for",age);
+console.log("My "name);
 console.log(correct);
 
 document.getElementById("p1").innerHTML = age;
