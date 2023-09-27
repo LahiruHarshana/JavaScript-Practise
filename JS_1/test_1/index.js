@@ -20,3 +20,4 @@ let name = "Lahiru";
 let age =21;
 
 console.log(age);
+console.log(name);
